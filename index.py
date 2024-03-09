@@ -1,5 +1,4 @@
 #Raul's Taco Joint
-#very hungry when i made this mmmmm yummy
 
 import os #imports cls
 from datetime import datetime
